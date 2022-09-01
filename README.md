@@ -2,7 +2,7 @@
 https://youtu.be/EvP5XQgEj_A
 
 ## Project Description
-In this project, I'll analyze the Adventure-Work data. The AdventureWorks databases are sample databases that were originally published by Microsoft. For this project, I will be Cleaning the data by using M language, modeling the data using DAX, and visualizing the data by Power BI visuals.
+In this project, I'll analyze the Adventure-Work data. The Adventure Works databases are sample databases that were originally published by Microsoft. For this project, I will be connecting and shaping data in Power Query, building a relational model, and adding calculate fields with DAX measures. Finally, created an interactive Dashboard for data visualization of the performance of the company.
 
 ## Project Process
 
